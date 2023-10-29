@@ -1,7 +1,6 @@
 import random;
 import time;
 import datetime;
-import re;
 list_of_stations=['del','hyd','amr','ban','mum','goa','che','kol','shi','sri']
 class ToStation:
     to=""
